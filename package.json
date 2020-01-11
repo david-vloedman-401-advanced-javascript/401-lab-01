@@ -1,5 +1,5 @@
 {
-  "name": "01-node-ecosystem",
+  "name": "template",
   "version": "0.0.1",
   "description": "this will be sooooo cool",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "jest --verbose --coverage",
     "lint": "eslint '**/*.js'"
   },
-  "author": "",
+  "author": "David Vloedman",
   "license": "ISC",
   "dependencies": {
     "eslint": "^6.1.0",
