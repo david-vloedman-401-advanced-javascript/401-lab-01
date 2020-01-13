@@ -9,16 +9,14 @@
 * [travis](https://www.travis-ci.com/david-vloedman-401-advanced-javascript/401-lab-01)
 
 
-#### Documentation
 
-* JSDoc Comment Required for all modules and functions in all .js files
 
 ### Setup
 'npm install'
 
   
 #### Tests
-* How do you run tests?
+
 'npm test'
 
 #### UML
