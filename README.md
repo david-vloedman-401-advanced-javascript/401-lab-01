@@ -5,7 +5,7 @@
 ### Author: David Vloedman
 
 ### Links and Resources
-* [submission PR](https://github.com/david-vloedman-401-advanced-javascript/401-lab-01/pull/1)
+* [submission PR](https://github.com/david-vloedman-401-advanced-javascript/401-lab-01/pull/2)
 * [travis](https://www.travis-ci.com/david-vloedman-401-advanced-javascript/401-lab-01)
 
 
